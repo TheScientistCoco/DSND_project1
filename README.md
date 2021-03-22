@@ -1,4 +1,6 @@
 # DSND_project1
+Yu Tao 2021/03/22
+
 Udacity Data Scientist Nanodegree Project 1: Write a Data Science Blog Post
 
 ## Table of Contents
